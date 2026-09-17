@@ -9,14 +9,10 @@
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/VERSION-1.0.1-red?style=for-the-badge" alt="Version 1.0.1">
-    <a href="https://github.com/Vinicius-Jose45/REDresize/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/Vinicius-Jose45/REDresize?style=for-the-badge&color=007ec6" alt="License">
-    </a>
+    <a href="https://github.com/Vinicius-Jose45/REDresize/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Vinicius-Jose45/REDresize?style=for-the-badge&color=007ec6" alt="License"></a>
     <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-    <a href="https://github.com/Vinicius-Jose45/REDresize/stargazers">
-      <img src="https://img.shields.io/github/stars/Vinicius-Jose45/REDresize?style=for-the-badge&color=444444" alt="Stars">
-    </a>
+    <a href="https://github.com/Vinicius-Jose45/REDresize/stargazers"><img src="https://img.shields.io/github/stars/Vinicius-Jose45/REDresize?style=for-the-badge&color=444444" alt="Stars"></a>
   </p>
 </p>
 
