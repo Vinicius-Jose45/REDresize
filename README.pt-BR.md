@@ -1,6 +1,3 @@
-### Arquivo: `README.pt-BR.md` (Português)
-
-```markdown
 <p align="center">
   <h1 align="center">REDresize</h1>
   <p align="center">Aplicação web para redimensionamento e conversão de imagens com interface CLI retrô.</p>
