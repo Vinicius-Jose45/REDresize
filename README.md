@@ -1,8 +1,8 @@
 <p align="center">
-  <h1 align="center"><span style="color: #ff3333;">RED</span>resize</h1>
+  <h1 align="center">REDresize</h1>
   <p align="center">Browser-based image resizing & conversion with a CLI aesthetic.</p>
   <p align="center">
-    English · <a href="README.pt-BR.md">Português</a>
+    <strong>English</strong> · <a href="README.pt-BR.md">Português</a>
   </p>
   <p align="center">
     A light-weight web app for resizing, converting, and inspecting images completely client-side in the browser using HTML, Vanilla JavaScript, and Tailwind CSS.
@@ -12,6 +12,8 @@
     <a href="https://github.com/Vinicius-Jose45/REDresize/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/Vinicius-Jose45/REDresize?style=for-the-badge&color=007ec6" alt="License">
     </a>
+    <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </p>
 </p>
 
