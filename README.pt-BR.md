@@ -1,25 +1,20 @@
 <p align="center">
-  <a href="README.md">English</a> · <strong>Português</strong>
+  <h1 align="center">REDresize</h1>
+  <p align="center">Aplicação web para redimensionamento e conversão de imagens com interface CLI retrô.</p>
+  <p align="center">
+    <a href="README.md">English</a> · <strong>Português</strong>
+  </p>
+  <p align="center">
+    Uma aplicação web leve para redimensionar, converter e inspecionar imagens totalmente do lado do cliente no navegador usando HTML, JavaScript Puro e Tailwind CSS.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/VERSÃO-1.0.1-red?style=for-the-badge" alt="Versão 1.0.1">
+    <a href="https://github.com/Vinicius-Jose45/REDresize/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Vinicius-Jose45/REDresize?style=for-the-badge&color=007ec6" alt="Licença"></a>
+    <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <a href="https://github.com/Vinicius-Jose45/REDresize/stargazers"><img src="https://img.shields.io/github/stars/Vinicius-Jose45/REDresize?style=for-the-badge&color=444444" alt="Estrelas"></a>
+  </p>
 </p>
-
-<h1 align="center">
-  <img src="https://img.shields.io/badge/RED-red?style=for-the-badge" height="32" alt="RED"><b>resize</b>
-</h1>
-
-<p align="center">
-  Aplicação web para redimensionamento e conversão de imagens com interface CLI retrô.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.1-red?style=for-the-badge" alt="Versão 1.0.1">
-  <a href="https://github.com/Vinicius-Jose45/REDresize/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Vinicius-Jose45/REDresize?style=for-the-badge&color=007ec6" alt="Licença">
-  </a>
-  <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
-
----
 
 ---
 
