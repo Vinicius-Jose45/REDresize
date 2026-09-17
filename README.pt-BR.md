@@ -5,7 +5,7 @@
     <a href="README.md">English</a> · <strong>Português</strong>
   </p>
   <p align="center">
-    Uma aplicação web leve para redimensionar, converter e inspecionar imagens totalmente do lado do cliente no navegador usando HTML, JavaScript Puro e Tailwind CSS.
+    Uma aplicação web leve para redimensionar, converter e inspecionar imagens diretamente pelo navegador do usuário, usando HTML, JavaScript Puro e Tailwind CSS.
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/VERSÃO-1.0.1-red?style=for-the-badge" alt="Versão 1.0.1">
