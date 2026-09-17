@@ -5,7 +5,7 @@
     <strong>English</strong> · <a href="README.pt-BR.md">Português</a>
   </p>
   <p align="center">
-    A light-weight web app for resizing, converting, and inspecting images completely client-side in the browser using HTML, Vanilla JavaScript, and Tailwind CSS.
+    A lightweight web application to resize, convert, and inspect images directly in the user's browser, using HTML, vanilla JavaScript, and Tailwind CSS.
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/VERSION-1.0.1-red?style=for-the-badge" alt="Version 1.0.1">
