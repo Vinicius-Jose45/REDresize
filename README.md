@@ -21,6 +21,7 @@
 ## 🚀 Overview
 
 **REDresize** is a web application designed to resize and convert images, featuring a visual style inspired by retro-futuristic command-line interfaces (CLI). The entire application runs 100% client-side in the browser using raw HTML, vanilla JavaScript, and Tailwind CSS — ensuring fast processing without the need to upload your files to any external server.
+
 ---
 
 ## ✨ Features
