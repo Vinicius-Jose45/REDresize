@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">REDresize</h1>
-  <p align="center">Browser-based image resizing & conversion with a CLI aesthetic.</p>
+  <p align="center">Browser-based image resizing and conversion with a retro-futuristic CLI aesthetic.</p>
   <p align="center">
     <strong>English</strong> · <a href="README.pt-BR.md">Português</a>
   </p>
@@ -20,8 +20,7 @@
 
 ## 🚀 Overview
 
-**REDresize** is a web application focused on image resizing and conversion, featuring a command-line interface (CLI) styled theme. The entire application operates 100% client-side in the browser using raw HTML, vanilla JavaScript, and Tailwind CSS — ensuring fast processing without uploading your files to any external server.
-
+**REDresize** is a web application designed to resize and convert images, featuring a visual style inspired by retro-futuristic command-line interfaces (CLI). The entire application runs 100% client-side in the browser using raw HTML, vanilla JavaScript, and Tailwind CSS — ensuring fast processing without the need to upload your files to any external server.
 ---
 
 ## ✨ Features
