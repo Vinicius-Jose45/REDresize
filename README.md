@@ -52,6 +52,13 @@
 
 ---
 
+<!-- BANNER / PREVIEW DA INTERFACE -->
+<p align="center">
+  <img src="./assets/REDresize_preview.png" alt="Interface REDresize" width="100%">
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 * **HTML5**
