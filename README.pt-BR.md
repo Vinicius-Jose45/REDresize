@@ -67,4 +67,4 @@ Por ser uma aplicação que roda 100% no navegador, não é necessária nenhuma 
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/Vinicius-Jose45/REDresize.git]
+   git clone https://github.com/Vinicius-Jose45/REDresize.git
