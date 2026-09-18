@@ -67,5 +67,5 @@ Since REDresize runs entirely in the browser, no backend setup or build step is 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Vinicius-Jose45/REDresize.git]
+   git clone https://github.com/Vinicius-Jose45/REDresize.git
    
