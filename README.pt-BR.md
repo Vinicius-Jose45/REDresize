@@ -52,6 +52,13 @@ O **REDresize** é uma aplicação web focada em redimensionamento e conversão 
 
 ---
 
+<!-- BANNER / PREVIEW DA INTERFACE -->
+<p align="center">
+  <img src="./assets/REDresize_preview.png" alt="Interface REDresize" width="100%">
+</p>
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5**
