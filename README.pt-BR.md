@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">REDresize</h1>
-  <p align="center">Aplicação web para redimensionamento e conversão de imagens com interface CLI retrô.</p>
+  <p align="center">Aplicação web para redimensionamento e conversão de imagens com interface CLI retrofuturista.</p>
   <p align="center">
     <a href="README.md">English</a> · <strong>Português</strong>
   </p>
