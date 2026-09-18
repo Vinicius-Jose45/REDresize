@@ -20,7 +20,7 @@
 
 ## 🚀 Visão Geral
 
-O **REDresize** é uma aplicação web focada em redimensionamento e conversão de imagens, construída com uma interface temática que simula um terminal de linha de comando (CLI). O projeto opera 100% do lado do cliente (*client-side*) no navegador utilizando HTML, JavaScript puro e Tailwind CSS — garantindo máxima privacidade e velocidade sem envio de arquivos para servidores externos.
+O **REDresize** é uma aplicação web focada em redimensionamento e conversão de imagens, construída com uma interface temática inspirada em um terminal de linha de comando retrofuturista (CLI). O projeto opera 100% do lado do usuário (client-side) no navegador, utilizando HTML, JavaScript Puro e Tailwind CSS, garantindo máxima privacidade e velocidade sem envio de arquivos para servidores externos.
 
 ---
 
