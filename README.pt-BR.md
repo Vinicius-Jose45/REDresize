@@ -8,7 +8,7 @@
     Uma aplicação web leve para redimensionar, converter e inspecionar imagens diretamente pelo navegador do usuário, usando HTML, JavaScript Puro e Tailwind CSS.
   </p>
   <p align="center">
-    <a href="https://vinicius-jose45.github.io/REDresize/"><img src="https://img.shields.io/badge/TESTE_ONLINE-🚀_CLICK_AQUI ⮜-red?style=for-the-badge&logo=github" alt="Demo Online"></a>
+    <a href="https://vinicius-jose45.github.io/REDresize/"><img src="https://img.shields.io/badge/TESTE_ONLINE-🚀_CLIQUE AQUI ⮜-red?style=for-the-badge&logo=github" alt="Demo Online"></a>
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/VERSÃO-1.0.1-red?style=for-the-badge" alt="Versão 1.0.1">
