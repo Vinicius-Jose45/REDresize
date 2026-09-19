@@ -54,7 +54,7 @@
 
 <!-- BANNER / PREVIEW DA INTERFACE -->
 <p align="center">
-  <img src="./assets/REDresize_preview.png" alt="Interface REDresize" width="100%">
+  <img src="./assets/redresize_preview.png" alt="Interface REDresize" width="100%">
 </p>
 
 ---
